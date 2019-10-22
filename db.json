@@ -1,0 +1,25 @@
+{
+    "friends": [
+        {
+            "nick": "andrec",
+            "subnick": "elfriend",
+            "zemail": "andres.castro@pragma.com.co",
+            "friend": false,
+            "uid": "001"
+          },
+          {
+            "nick": "moralej",
+            "subnick": "jenkinsman",
+            "email": "andres.morales@pragma.com.co",
+            "friend": true,
+            "uid": "002"
+          },
+          {
+            "nick": "jonnatan",
+            "subnick": "angulero",
+            "email": "jonnatan.rios@pragma.com.co",
+            "friend": true,
+            "uid": "003"
+          }
+    ]
+}
